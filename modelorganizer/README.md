@@ -1,4 +1,4 @@
-# Model Organizer
+# Model Organizer or Ultra File Juggler 2004 Pro (Midi Edition)
 
 This directory contains the standalone Go-based model organization utility. It is structured so it can be copied into its own Git repository without pulling in the rest of `sr-port`.
 
